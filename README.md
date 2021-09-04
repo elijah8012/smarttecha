@@ -1,0 +1,2 @@
+# smarttecha
+Simple Web
